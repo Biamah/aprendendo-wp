@@ -6,14 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php bloginfo(show: 'name'); ?></title>
     <?php wp_head(); ?>
+    <link rel="stylesheet" href="<?= get_template_directory_uri() . '/src/styles/frontend/style.css' ?>">
 </head>
-<body>
-<?php
+<body <?php body_class(); ?>>
 
-the_custom_logo();
+<header class="b-header">
+    <div class="container">
+        <?php the_custom_logo(); ?>
 
-wp_nav_menu(
-    array(
-        'menu' => 'menu'
-    )
-);
+        <nav>
+            <?php 
+                wp_nav_menu(
+                    array(
+                        'menu' => 'menu',
+                        'menu-id' => 'menu'
+                    )
+                )
+            ?>
+        </nav>
+    </div>
+</header>

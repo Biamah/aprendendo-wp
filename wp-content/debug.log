@@ -1,0 +1,90 @@
+[11-Apr-2022 17:54:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_url() in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php:9
+Stack trace:
+#0 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\index.php(2): require_once()
+#1 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\template-loader.php(106): include('C:\\Users\\Admin\\...')
+#2 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-blog-header.php(19): require_once('C:\\Users\\Admin\\...')
+#3 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\index.php(17): require('C:\\Users\\Admin\\...')
+#4 {main}
+  thrown in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php on line 9
+[11-Apr-2022 17:54:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_url() in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php:9
+Stack trace:
+#0 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\index.php(2): require_once()
+#1 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\template-loader.php(106): include('C:\\Users\\Admin\\...')
+#2 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-blog-header.php(19): require_once('C:\\Users\\Admin\\...')
+#3 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\index.php(17): require('C:\\Users\\Admin\\...')
+#4 {main}
+  thrown in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php on line 9
+[11-Apr-2022 17:55:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_url() in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php:9
+Stack trace:
+#0 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\index.php(2): require_once()
+#1 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\template-loader.php(106): include('C:\\Users\\Admin\\...')
+#2 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-blog-header.php(19): require_once('C:\\Users\\Admin\\...')
+#3 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\index.php(17): require('C:\\Users\\Admin\\...')
+#4 {main}
+  thrown in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php on line 9
+[11-Apr-2022 17:55:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_url() in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php:9
+Stack trace:
+#0 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\index.php(2): require_once()
+#1 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\template-loader.php(106): include('C:\\Users\\Admin\\...')
+#2 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-blog-header.php(19): require_once('C:\\Users\\Admin\\...')
+#3 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\index.php(17): require('C:\\Users\\Admin\\...')
+#4 {main}
+  thrown in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php on line 9
+[11-Apr-2022 17:55:26 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\formatting.php on line 2761
+[11-Apr-2022 17:55:26 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\formatting.php on line 2761
+[11-Apr-2022 17:55:26 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\formatting.php on line 2761
+[11-Apr-2022 17:55:26 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\formatting.php on line 2761
+[11-Apr-2022 17:55:26 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\formatting.php on line 2761
+[11-Apr-2022 17:55:34 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-admin\includes\plugin.php on line 2062
+[11-Apr-2022 17:55:34 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\formatting.php on line 2761
+[11-Apr-2022 17:55:34 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\formatting.php on line 2761
+[11-Apr-2022 17:55:34 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\formatting.php on line 2761
+[11-Apr-2022 17:55:34 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\formatting.php on line 2761
+[11-Apr-2022 17:55:34 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\formatting.php on line 2761
+[11-Apr-2022 17:55:41 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-admin\includes\plugin.php on line 2062
+[11-Apr-2022 17:55:41 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\formatting.php on line 2761
+[11-Apr-2022 17:55:41 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\formatting.php on line 2761
+[11-Apr-2022 17:55:41 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\formatting.php on line 2761
+[11-Apr-2022 17:55:41 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\formatting.php on line 2761
+[11-Apr-2022 17:55:41 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\formatting.php on line 2761
+[11-Apr-2022 17:55:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_url() in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php:9
+Stack trace:
+#0 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\index.php(2): require_once()
+#1 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\template-loader.php(106): include('C:\\Users\\Admin\\...')
+#2 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-blog-header.php(19): require_once('C:\\Users\\Admin\\...')
+#3 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\index.php(17): require('C:\\Users\\Admin\\...')
+#4 {main}
+  thrown in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php on line 9
+[11-Apr-2022 17:57:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_url() in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php:9
+Stack trace:
+#0 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\index.php(2): require_once()
+#1 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\template-loader.php(106): include('C:\\Users\\Admin\\...')
+#2 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-blog-header.php(19): require_once('C:\\Users\\Admin\\...')
+#3 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\index.php(17): require('C:\\Users\\Admin\\...')
+#4 {main}
+  thrown in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php on line 9
+[11-Apr-2022 17:57:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_url() in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php:9
+Stack trace:
+#0 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\index.php(2): require_once()
+#1 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\template-loader.php(106): include('C:\\Users\\Admin\\...')
+#2 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-blog-header.php(19): require_once('C:\\Users\\Admin\\...')
+#3 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\index.php(17): require('C:\\Users\\Admin\\...')
+#4 {main}
+  thrown in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php on line 9
+[11-Apr-2022 17:57:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_url() in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php:9
+Stack trace:
+#0 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\index.php(2): require_once()
+#1 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\template-loader.php(106): include('C:\\Users\\Admin\\...')
+#2 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-blog-header.php(19): require_once('C:\\Users\\Admin\\...')
+#3 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\index.php(17): require('C:\\Users\\Admin\\...')
+#4 {main}
+  thrown in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php on line 9
+[11-Apr-2022 17:57:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_url() in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php:9
+Stack trace:
+#0 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\index.php(2): require_once()
+#1 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-includes\template-loader.php(106): include('C:\\Users\\Admin\\...')
+#2 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-blog-header.php(19): require_once('C:\\Users\\Admin\\...')
+#3 C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\index.php(17): require('C:\\Users\\Admin\\...')
+#4 {main}
+  thrown in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php on line 9
+[11-Apr-2022 17:58:12 UTC] PHP Parse error:  syntax error, unexpected token ";" in C:\Users\Admin\Documents\projetos\pessoais\aprendendo-wordpress\wp-content\themes\aprendendoWp\header.php on line 9
