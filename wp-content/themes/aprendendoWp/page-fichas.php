@@ -1,0 +1,1 @@
+<h1>Esse é o conteudo de paginas fichas.</h1>
