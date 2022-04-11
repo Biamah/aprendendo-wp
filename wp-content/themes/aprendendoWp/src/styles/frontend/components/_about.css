@@ -1,0 +1,22 @@
+.c-about__image {
+    width: 100%;
+    height: 35vw;
+    object-fit: cover;
+}
+
+.c-about__conteudo {
+    padding: 0 90px;
+    margin-bottom: 30px;
+}
+
+.c-about__title {
+    margin-bottom: 30px;
+    font-size: 32px;
+}
+
+.c-about__conteudo > p {
+    font-size: 18px;
+    letter-spacing: 0.98px;
+    line-height: 20px;
+    margin-bottom: 15px;
+}
