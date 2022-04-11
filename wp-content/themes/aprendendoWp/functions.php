@@ -2,6 +2,7 @@
 
 function aprendendo_wp_recurso(){
     add_theme_support('custom-logo');
+    add_theme_support('post-thumbnails');
 }
 add_action('after_setup_theme', 'aprendendo_wp_recurso');
 

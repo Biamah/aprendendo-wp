@@ -1,0 +1,7 @@
+@import '../components/_about.css';
+
+.b-about {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}

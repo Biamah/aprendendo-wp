@@ -1,0 +1,10 @@
+.b-footer {
+    width: 100%;
+    background-color: #ccdcd2;
+}
+
+.b-footer .container {
+    width: max-content;
+    margin: 0 auto;
+    padding: 15px 0;
+}
